@@ -1,14 +1,26 @@
- body {
-            font-family: Arial, sans-serif;
-            background-color:pink;
-            color: white;}
+        body {
+
+           font-family: Arial, sans-serif;
+           background-color:pink;
+           color: white;}
+        img {
+            margin: 50px 250px;
+        }
         h1 {
+            border: 2px solid #f55da6;
+            padding: 10px;
+            margin: 20px 0;
             color: white;
+            text-align: center
         }
         h2 {
-            color: white;}
+            color: white;
+            text-align: center
+            }
         h3 {
             color: white; }
         p {
         color: white;}
-     
+        span {
+        color: red;}
+        
